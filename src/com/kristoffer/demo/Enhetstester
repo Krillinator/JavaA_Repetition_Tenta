@@ -1,0 +1,39 @@
+Why Unit testing?
+
+    * Find eventual problems before publishing code
+    * New functionality, same tests
+    * Saves Time, Effort and energy
+    * Writing Tests is efficient
+
+    How to work:
+        * Annotations marks Unit Tests with JUnit (@Test)
+        * Built in functions to assertIfTrue()
+        * @Test() annotation (method level)
+            * Annotation is a 'synthetic Meta Data'
+
+    When to use:
+        * First write logic (objects, methods, variables)
+        * Instead of clicking 'play' / 'run', do a TEST
+        * When running a test, check for MULTIPLE CONDITIONS:
+            * Datatype
+            * IF Null
+            * True
+            * SOUT excluded from MAIN
+            * Sequence of methods, right order?
+
+    Debugging VS Unit Testing?
+        *** Debugging ***
+            --> Run the app
+            --> Breakpoints
+            --> Terminal and flow
+
+        *** Unit Testing ***
+            --> Do not NEED to run ENTIRE app
+            --> Limit tests to certain methods
+            --> New functionality, quicker to debug
+
+        Conclusion: "With unit Tests, lets say you have 100 lines of new code
+                    Do we have to RUN the entire app to see the new functionality?
+
+                    Answer is: No. It is unnecessary! "
+

@@ -1,0 +1,23 @@
+
+        // Programming Principles
+        // D.R.Y        -->     Do NOT Repeat Yourself
+            // For-loops
+            // Methods
+            // Inheritance
+
+        // Y.A.G.N.I    -->     You Aren't Gonna Need It
+            // Unnecessary functions
+            // Unnecessary variables
+            // Does NOT solve the problem
+            // Easier ways to solve problem
+
+        // M.I.M.C      -->     More Is More Complex
+            // More code > More to read > more to learn
+            // Bigger project > Bigger headaches
+            // Forgetfulness from scope
+
+        // K.I.S.S      -->     Keep It Super(stupid) Simple
+            // Do NOT overcomplicate easy solutions
+            // Makes code easier to maintain
+            // Time, energy saver
+            // Code Readability
